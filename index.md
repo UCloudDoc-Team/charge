@@ -6,4 +6,4 @@
 
 **目录：**
 
-{{indexmenu>:charge:order#1 | nsort dsort msort}}
+{{indexmenu>:charge:charge#1 | nsort dsort msort}}
