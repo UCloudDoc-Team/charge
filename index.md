@@ -1,4 +1,4 @@
-{{indexmenu_n>10}}
+{{indexmenu_n>0}}
 
 # 计费说明
 
