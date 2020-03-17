@@ -1,4 +1,4 @@
-<div class="sidebar_title"> 计费方式</div>
+<div class="sidebar_title"> 计费说明</div>
 
 * [概览](charge/charge/overview)
 * [配置变更/升降级](charge/charge/upgrade)
