@@ -6,21 +6,3 @@
 * [欠费](/charge/arrearage)
 * [FAQ](/charge/coupon)
  
-
-
-
-
-
-
-
-
-
-
-    
-   
-   
-    
-        
-
-
-
