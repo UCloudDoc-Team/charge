@@ -5,7 +5,7 @@
 ## 代金券
 
 代金券是可抵扣费用的优惠券，您可以在 **用户中心 > 账户管理 > 代金券** 页面中查看账户下的代金券情况。
-<img width="1033" height="461" alt="image" src="https://github.com/user-attachments/assets/50d4d5ed-6754-4fd9-9742-d92eff5b4fc6" />
+![](images/YvOGe8z-qqA1a_nucb5o1E-KXU60YkXaYhVQmYgU-vg.png)
 
 ### 代金券使用规则
 
