@@ -232,7 +232,8 @@
 **手动续费操作**
 当您购买产品后，可登录控制台在 **财务中心 > 续费管理** 中查看该资源的续费操作，点击“续费”，自主选择续费周期。
 
-![77593c500943f93fe4b5c8dd86f0902c_compress](https://github.com/user-attachments/assets/a273e930-79f9-47e7-b89b-0e6edf008411)
+![](images/4bsAvEmZ3eo9xkz-LqP23TikSX5PLacdfCGGpsE2kaM.png)
+
 
 
 ### 欠费
