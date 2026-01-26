@@ -35,7 +35,7 @@
 
 3.选择新的计费方式并提交
 
-<img width="794" height="364" alt="image" src="https://github.com/user-attachments/assets/3a7f805d-6b05-4a3b-991a-c0ad7db1dbde" />
+![](images/TuAOeDpdUrJ1ecP2aj5HjoyFRXvnS4Q2rnkqeItDoEo.png)
 
 
   
