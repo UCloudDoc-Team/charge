@@ -31,7 +31,7 @@
 ## 赠金
 
 赠金是优刻得提供的不可提现资金，用于支付资源费用，通常由销售赠与，您可以登录控制台在概览中看到赠送账户情况。
-<img width="1344" height="546" alt="image" src="https://github.com/user-attachments/assets/acb65fb3-6502-4a3c-90e2-f6954fbafb2a" />
+![](images/WyOqBqq66sixUA6uRZn8RIVGsDEGklA9OX1Mb_GLF0c.jpg)
 
 ### 赠金使用规则
 
