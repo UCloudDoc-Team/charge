@@ -214,7 +214,7 @@
 
 **关闭自动续费操作**
 
-<img width="1380" height="492" alt="image" src="https://github.com/user-attachments/assets/80b5872d-a19f-4ac7-b40d-1147e9add91b" />
+![](images/1tXndxiOmrOuL0tvIBMifxq582kd3DlTTNVZhuQNChw.jpg)
 
 关闭“自动续费开关”，到期后资源进入欠费状态，系统会提示您资源到期和续费事宜，此时系统不会释放用户的资源，用户可以通过手动续费来进行续费，在续费时可重新选择续费周期。如果用户不进行充值并手动续费，则扣费失败，资源状态显示“已过期”。
 
