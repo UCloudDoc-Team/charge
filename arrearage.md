@@ -208,7 +208,7 @@
 
 当您购买产品后，可登录控制台在 **财务中心 > 续费管理** 中查看该资源的“自动续费开关”。
 
-<img width="1833" height="514" alt="image" src="https://github.com/user-attachments/assets/8dd44d3d-5351-4c33-a219-293d0d272f9b" />
+![](images/Uv9Ay8HnHcCKCLcQi8uTRlSEhUVyfbwgw9NUNzHHgh8.png)
 
 开启“自动续费开关”，当您的账户余额充足时，系统会在即将到期时，自动为您续费（自动续费是按之前的配置和时长为您自动续费）。当账户余额不足时，若产品接入了回收系统，该资源会进入回收阶段；若产品未接入回收系统，系统会生成过期订单，您需要手动完成续费。
 
