@@ -31,7 +31,7 @@
 1. 您可以在 **用户中心 > 续费管理** 页面
   
 2. 找到对应的资源，点击“变更计费方式”
-<img width="1049" height="102" alt="image" src="https://github.com/user-attachments/assets/bddd0465-de58-4e12-8995-0e764d8179bf" />
+![](images/3-jYtC_J80p77ZST7fzz6PvPBsO19gFJbWO1wdXdWcY.png)
 
 3.选择新的计费方式并提交
 
