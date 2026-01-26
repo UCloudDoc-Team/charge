@@ -7,7 +7,7 @@
 后付费资源的回收系统以各个产品自身的回收机制为准。
 
 ## 欠费、资源欠费回收
-![76978f8e632a63b2fc8b3855cacbadfa_compress](https://github.com/user-attachments/assets/2616dd1a-4b4a-4bd9-9c41-388a2edc53ed)
+![](images/76978f8e632a63b2fc8b3855cacbadfa_compress.jpg)
 
 当应付费资源存在欠费订单时，系统将根据您的账户余额情况，执行不同的处理：
 
