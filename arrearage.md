@@ -155,7 +155,7 @@
 5. 参与促销的产品，退费金额请参考具体活动规则。
 
 ## 续费、欠费、资源过期回收
-<img width="1138" height="440" alt="d88166e869829ab28034057a9bc8f4f4_origin" src="https://github.com/user-attachments/assets/844b883c-d41f-48ff-b24b-dc13ac618fe3" />
+![](images/d88166e869829ab28034057a9bc8f4f4_origin.png)
 
 1. 当您的资源已开启自动续费，在资源到期时，系统将根据账户余额情况执行不同处理：
 
