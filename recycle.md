@@ -31,7 +31,7 @@
 1. 您可以在 **用户中心 > 续费管理** 页面
   
 2. 找到对应的资源，点击“变更计费方式”
-![](images/3-jYtC_J80p77ZST7fzz6PvPBsO19gFJbWO1wdXdWcY.png)
+![](images/6867d98e896960a7e38ddcdd345d7b9d_compress.jpg)
 
 3.选择新的计费方式并提交
 
