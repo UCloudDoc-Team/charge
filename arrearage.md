@@ -232,7 +232,7 @@
 **手动续费操作**
 当您购买产品后，可登录控制台在 **财务中心 > 续费管理** 中查看该资源的续费操作，点击“续费”，自主选择续费周期。
 
-![](images/4bsAvEmZ3eo9xkz-LqP23TikSX5PLacdfCGGpsE2kaM.png)
+![](images/013ce87cdbf37ed71626c1264d96c4e9_compress.jpg)
 
 
 
