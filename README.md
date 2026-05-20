@@ -7,6 +7,7 @@
 后付费资源的计费包括：删除资源、欠费、资源欠费回收。
   
 * [预付费资源](/charge/arrearage)
+   * [预付费资源删除退费金额计算说明](/charge/Prepaid-Refund-Calc)     
 * [后付费资源](/charge/index)
 * [代金券和赠金](/charge/coupon)
 * [FAQ](/charge/recycle)
